@@ -1,0 +1,12 @@
+C:\Users\flundar\source\repos\controlcmd\controlcmd\bin\Release\control.exe.config
+C:\Users\flundar\source\repos\controlcmd\controlcmd\bin\Release\control.exe.manifest
+C:\Users\flundar\source\repos\controlcmd\controlcmd\bin\Release\control.application
+C:\Users\flundar\source\repos\controlcmd\controlcmd\bin\Release\control.exe
+C:\Users\flundar\source\repos\controlcmd\controlcmd\bin\Release\control.pdb
+C:\Users\flundar\source\repos\controlcmd\controlcmd\obj\Release\controlcmd.csproj.CoreCompileInputs.cache
+C:\Users\flundar\source\repos\controlcmd\controlcmd\obj\Release\control.TrustInfo.xml
+C:\Users\flundar\source\repos\controlcmd\controlcmd\obj\Release\control.exe.manifest
+C:\Users\flundar\source\repos\controlcmd\controlcmd\obj\Release\control.application
+C:\Users\flundar\source\repos\controlcmd\controlcmd\obj\Release\control.exe
+C:\Users\flundar\source\repos\controlcmd\controlcmd\obj\Release\control.pdb
+C:\Users\flundar\source\repos\controlcmd\controlcmd\obj\Release\controlcmd.csproj.AssemblyReference.cache

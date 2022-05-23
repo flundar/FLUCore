@@ -1,0 +1,6 @@
+C:\Users\flundar\source\repos\startbannerlord\startbannerlord\bin\Debug\startbannerlord.exe.config
+C:\Users\flundar\source\repos\startbannerlord\startbannerlord\bin\Debug\startbannerlord.exe
+C:\Users\flundar\source\repos\startbannerlord\startbannerlord\bin\Debug\startbannerlord.pdb
+C:\Users\flundar\source\repos\startbannerlord\startbannerlord\obj\Debug\startbannerlord.csproj.CoreCompileInputs.cache
+C:\Users\flundar\source\repos\startbannerlord\startbannerlord\obj\Debug\startbannerlord.exe
+C:\Users\flundar\source\repos\startbannerlord\startbannerlord\obj\Debug\startbannerlord.pdb
