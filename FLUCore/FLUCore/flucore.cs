@@ -303,12 +303,6 @@ namespace FLUCore
                 MessageBox.Show("Alanları doldurmak zorundasınız!");
                 return;
             }
-            if (textBox1.Text == "flundar***")
-            {
-                Unprotect();
-                koruma.Stop();
-                flundar = "true";
-            }
             koruma.Start();
             timer1.Stop();
             this.Hide();
