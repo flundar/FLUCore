@@ -1,3 +1,3 @@
 # FLUCore
 
-an project  for manage the computers are uses by students
+an  project for manage student computers
